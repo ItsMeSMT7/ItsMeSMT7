@@ -10,15 +10,15 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ItsMeSMT7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="170" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ItsMeSMT7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Sumit-Asalkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sumit-Asalkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ItsMeSMT7&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=Sumit-Asalkar&theme=dark&hide_border=false" />
 </p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ItsMeSMT7&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Sumit-Asalkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
